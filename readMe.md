@@ -1,0 +1,1 @@
+Trabalho feito em sala no senai, realizando a primeira atomação do array, utilizando as operações de subtração e soma
